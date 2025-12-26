@@ -1,4 +1,3 @@
-import { motion } from "framer-motion"
 import { Mail, MapPin, GraduationCap, Send, ArrowUpRight } from "lucide-react"
 import { BlurFade } from "@/components/magicui/blur-fade"
 import { Button } from "@/components/ui/button"

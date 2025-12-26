@@ -1,5 +1,5 @@
 import { motion } from "framer-motion"
-import { Github, Linkedin, ArrowUp, Heart } from "lucide-react"
+import { Github, Linkedin, ArrowUp } from "lucide-react"
 
 const socialLinks = [
   { icon: Github, href: "https://github.com/zaynabtariq", label: "GitHub" },
