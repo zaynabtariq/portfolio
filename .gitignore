@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Plugin-vendored agent skills (reinstalled by the plugin, not project source)
+.agents/
+.claude/skills/vercel-react-best-practices
